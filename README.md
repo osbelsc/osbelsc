@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating Android and Web projects<br>📚 I'm currently learning ...</p>
+<p align="left">✨ Creating Android and Web projects<br>📚 I'm currently learning and 
+developing...</p>
 
 ###
 
