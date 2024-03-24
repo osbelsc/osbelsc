@@ -12,11 +12,6 @@
 
 <p align="left">✨ Creating Android and Web projects<br>📚 I'm currently developing in my proyect live remember Do What you love...</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/osbelsc/osbelsc/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="left">I code with</h2>
 
